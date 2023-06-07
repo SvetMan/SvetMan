@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges">
-    <a href="https://www.instagram.com/svetmanila/"><a href="https://www.linkedin.com/in/svetlana-manila-b70593224/"></a>
+   <a href="https://www.linkedin.com/in/svetlana-manila-b70593224/"></a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/svetmanila/">
