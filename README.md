@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://img.freepik.com/premium-vector/woman-sits-on-the-bean-bag-chair-and-works-at-the-computer-remote-work-office-at-home_217290-1018.jpg?w=740)](https://img.freepik.com/free-vector/woman-with-a-laptop-illustration_53876-34788.jpg?w=740&t=st=1687871095~exp=1687871695~hmac=410e7b35bd332f6f9a5e5b43453bd323cf316efd26a38ccd2ecdbd2cd182bb2a)" width="100"/>
+  <img src="https://[img.freepik.com/premium-vector/woman-sits-on-the-bean-bag-chair-and-works-at-the-computer-remote-work-office-at-home_217290-1018.jpg?w=740)](https://img.freepik.com/free-vector/woman-with-a-laptop-illustration_53876-34788.jpg?w=740&t=st=1687871095~exp=1687871695~hmac=410e7b35bd332f6f9a5e5b43453bd323cf316efd26a38ccd2ecdbd2cd182bb2a)](https://giphy.com/gifs/laptop-rotoscope-macbook-d3MLdIYIHup9Q2xG)" width="100"/>
 </div> 
 <div id="badges" align = "center">
    <a href="https://www.linkedin.com/in/svetlana-manila-b70593224/">
